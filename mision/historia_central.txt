@@ -8,3 +8,5 @@ deben registrarlo inmediatamente en los inventarios compartidos. Tengan cuidado:
 
 Actividad 1: El Primer Avistamiento (commit y push)
 Historia: "Acaban de salir de la nave. El aire huele a azufre y flores. Escriban su primera entrada en su diario."
+
+Actividad 2: Comunicación con torre central
